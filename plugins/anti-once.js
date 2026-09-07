@@ -1,4 +1,4 @@
-const { cmd } = require('../jol!bwa')
+const { cmd } = require('../jolibwa')
 const { downloadContentFromMessage } = require('@whiskeysockets/baileys')
 
 cmd({
