@@ -387,7 +387,7 @@ cmd({
 // Boss command
 cmd({
   pattern: "boss",
-  alias: ["maalik", "owner"],
+  alias: ["maalik"],
   desc: "Assigns a random boss from group members.",
   react: "👔",
   category: "fun",
