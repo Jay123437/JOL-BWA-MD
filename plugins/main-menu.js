@@ -260,6 +260,7 @@ async (conn, mek, m, { from, sender, reply }) => {
 *├▢ hug*
 *├▢ hifi*
 *├▢ poke*
+*├▢ bot*
 *╰────────────────*
 
 *╭────⬡ CONVERT MENU✨ ⬡────*
