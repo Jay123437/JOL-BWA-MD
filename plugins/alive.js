@@ -1,4 +1,4 @@
-const { cmd, commands } = require('../jol!bwa');
+const { cmd, commands } = require('../jolibwa');
 const config = require('../config');
 
 // Commande Ping
