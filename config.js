@@ -19,7 +19,8 @@ module.exports = {
     // 2. INFORMATIONS DU BOT
     // ===========================================================
     PREFIX: process.env.PREFIX || '.',
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '92*****', // Mettez votre numéro ici
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '50940616026', // Mettez votre numéro ici
+    OWNER_NAME: process.env.OWNER_NAME || "Jol!bwa 🏌🏻‍♂️ 🤍",
     BOT_NAME: "JOL!BWA-MD",
     BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ jolibwa Bel bwa🏌🏻‍♂️',
     
